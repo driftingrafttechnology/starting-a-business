@@ -5,3 +5,4 @@ Technology Checklist for Starting a Business
 2. [Email hosting](email)
 3. [Website Creation](web-creation)
 4. [Website Hosting](web-hosting)
+5. [Backups](backups)
